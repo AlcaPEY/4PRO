@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "350068549374",
+    "firebase_url": "https://pro-20a8a.firebaseio.com",
+    "project_id": "pro-20a8a",
+    "storage_bucket": "pro-20a8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350068549374:android:9229bca19c25630c1127af",
+        "android_client_info": {
+          "package_name": "com.emrey.a4pro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350068549374-dibj4c1ua4792dk8bo5ff93unbvjea12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEJ83JeLfU-VlQpi8gWX7kItvgjWHvwjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350068549374-dibj4c1ua4792dk8bo5ff93unbvjea12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">4PRO</string>
+    <string name="new_user">NEW USER</string>
+    <string name="login">LOGIN</string>
+    <string name="validate">VALIDATE</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+</resources>
